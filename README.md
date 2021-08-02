@@ -1,6 +1,6 @@
 # Hi there, I'm João Paulo 👋
 
-[![Linkedin](https://img.shields.io/badge/-sidbelbase-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/joaopaulonfreitas)](https://linkedin.com/in/joaopaulonfreitas)
+[![Linkedin](https://img.shields.io/badge/-joaopaulonfreitas-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/joaopaulonfreitas)](https://linkedin.com/in/joaopaulonfreitas)
 
 ## 🚀 About Me
 I'm a full stack developer...
