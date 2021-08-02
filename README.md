@@ -4,7 +4,7 @@
 
 ### 🚀 Um resumo sobre quem sou...
 
-Eu sou um desenvolvedor que desenvolve soluções para resolver problemas. Pensando em tecnologias não somente como ferramentas ou linguagens mas, como veículos para chegar a um **DESTINO**, que seria:
+Eu sou um desenvolvedor full stack que, desenvolve soluções para resolver problemas. Pensando em tecnologias não somente como ferramentas ou linguagens mas, como veículos para chegar a um **DESTINO**, que seria:
 
 - Aumentar vendas;
 - Atrair mais clientes;
