@@ -1,4 +1,15 @@
-### Hi there, I'm João Paulo 👋
+# Hi there, I'm João Paulo 👋
+
+[![Linkedin](https://img.shields.io/badge/-sidbelbase-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/joaopaulonfreitas)](https://linkedin.com/in/joaopaulonfreitas)
+
+## 🚀 About Me
+I'm a full stack developer...
+
+## 🔗 Links
+
+
+## 🛠 Skills
+Javascript, HTML, CSS...
 
 <!--
 **joaopaulonfreitas/joaopaulonfreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
