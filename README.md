@@ -1,4 +1,4 @@
-# Olá, eu sou [João Paulo](https://joaopaulonfreitas.com) 👋
+# Olá, eu sou [João Paulo](https://joaopaulonfreitas.com) 😜️
 
 [![LinkedIn](https://img.shields.io/badge/joaopaulonfreitas-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaopaulonfreitas)
 [![Instagram](https://img.shields.io/badge/joaopaulonfreitas-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/joaopaulonfreitas)
